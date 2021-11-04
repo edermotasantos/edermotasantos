@@ -1,7 +1,7 @@
 ### Olá, eu sou o Eder 👋
 
 - 🔭 Estou atualmente em busca de uma vaga de Fullstack, Frontend, Backend ou Trainee
-- 🌱 Estou atualmente estudando SQL e MongoDB
+- 🌱 Estou atualmente estudando Node.js
 - 😄 Pronouns: ele/dele
 
 <div align="center">
