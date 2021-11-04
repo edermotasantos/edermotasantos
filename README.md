@@ -2,7 +2,7 @@
 
 - 🔭 Estou atualmente em busca de uma vaga de Fullstack, Frontend, Backend ou Trainee
 - 🌱 Estou atualmente estudando SQL e MongoDB
-- 😄 Pronouns: Pronouns: ele/dele
+- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/edermotasantos">
