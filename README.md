@@ -6,9 +6,15 @@
 
 <div align="center">
   <a href="https://github.com/edermotasantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edermotasantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edermotasantos&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<!-- <div align="center">
+  <a href="https://github.com/edermotasantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edermotasantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edermotasantos&layout=compact&langs_count=7&theme=radical"/>
-</div>
+</div> -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
