@@ -1,7 +1,7 @@
 ### Olá, eu sou o Eder 👋
 
 - Estou atualmente em busca de uma vaga de Frontend
-- Estou atualmente estudando Node.js
+- Estou atualmente estudando Python
 
 <div align="center">
   <a href="https://github.com/edermotasantos">
