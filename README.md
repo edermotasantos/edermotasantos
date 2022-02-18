@@ -1,6 +1,8 @@
 ### Olá, eu sou o Eder 👋
 
-- Estou atualmente em busca de uma vaga de Frontend
+- Estou atualmente em busca de uma vaga de Front-end, Back-end ou Full Stack
+- Tenho bons conhecimentos em metodologias àgeis
+- Tenho interesse em aprender novas linguagens
 - Estou atualmente estudando Python
 
 <div align="center">
