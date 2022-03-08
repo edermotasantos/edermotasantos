@@ -1,9 +1,9 @@
 ### Olá, eu sou o Eder 👋
 
-- Estou atualmente em busca de uma vaga de Front-end, Back-end ou Full Stack
+- Estou em busca de uma vaga de Front-end, Back-end ou Full Stack
 - Tenho bons conhecimentos em metodologias ágeis
 - Tenho interesse em aprender novas linguagens
-- Estou atualmente estudando Python
+- No momento estou estudando Python
 
 <div align="center">
   <a href="https://github.com/edermotasantos">
