@@ -3,7 +3,7 @@
 - Estou em busca de uma vaga de Front-end, Back-end ou Full Stack
 - Tenho bons conhecimentos em metodologias ágeis
 - Tenho interesse em aprender novas linguagens
-- No momento estou estudando Python
+- No momento estou estudando TypeScript
 
 
 <div align="center">
@@ -23,6 +23,7 @@
   <img align="center" alt="mongoDB" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Heroku" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
   <img align="center" alt="Nodejs" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img align="center" alt="Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <!-- <img align="center" alt="C" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> -->
 </div>
   
