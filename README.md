@@ -3,7 +3,7 @@
 - Estou em busca de uma vaga de Front-end, Back-end ou Full Stack
 - Tenho bons conhecimentos em metodologias ágeis
 - Tenho interesse em aprender novas linguagens
-- No momento estou estudando TypeScript
+- No momento estou estudando TypeScript e Java
 
 
 <div align="center">
